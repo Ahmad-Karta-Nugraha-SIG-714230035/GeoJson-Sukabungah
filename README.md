@@ -28,3 +28,8 @@ Setiap jalan direpresentasikan sebagai satu fitur (`Feature`) dalam koleksi (`Fe
     ]
   }
 }
+
+
+<img width="1345" height="484" alt="image" src="https://github.com/user-attachments/assets/764f75ad-7735-467d-8141-f024f4397c87" />
+<img width="1345" height="488" alt="image" src="https://github.com/user-attachments/assets/34087e6c-9d00-4d64-abff-1cd271bcd9a1" />
+
