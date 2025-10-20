@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nama_jalan": "Jl. Sukagalih"
+        "nama_jalan": "Jl. Sukajadi"
       },
       "geometry": {
         "type": "LineString",
@@ -19,7 +19,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nama_jalan": "Jl. Sukabungah"
+        "nama_jalan": "Jl. Sukagalih"
       },
       "geometry": {
         "type": "LineString",
@@ -40,7 +40,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nama_jalan": "Jl. Sukajadi"
+        "nama_jalan": "Jl. Haji Yasin"
       },
       "geometry": {
         "type": "LineString",
@@ -59,7 +59,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nama_jalan": "Jl. Cipedes Tengah"
+        "nama_jalan": "Jl. Dr. Djunjunan"
       },
       "geometry": {
         "type": "LineString",
@@ -79,7 +79,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nama_jalan": "Jl. Sukawarna"
+        "nama_jalan": "Jl. Cibarengkok"
       },
       "geometry": {
         "type": "LineString",
@@ -98,7 +98,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nama_jalan": "Jl. Sukaheman"
+        "nama_jalan": "Jl. Sukagalih 1"
       },
       "geometry": {
         "type": "LineString",
@@ -110,4 +110,7 @@
     }
   ]
 }
+
+
+
 
